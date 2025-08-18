@@ -11,8 +11,8 @@
 $$
 beautiful=git+hub
 $$
-  
-    
+<details> 
+<summary>코드 박스 보기</summary>
 <!--코드 박스 만들기-->
 ```c++
 #include <iostream>
@@ -50,6 +50,10 @@ print s
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
 ```
+
+</details>
+
+<br>  
 
 `background`&nbsp;&nbsp;&nbsp;&nbsp; `뭔가 코드같은 느낌`
 <!--&nbsp;은 공백 한 칸을 만들어 줌-->
